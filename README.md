@@ -105,7 +105,7 @@ AI4I 2020 Predictive Maintenance Dataset
 
 ## 👤 Author
 
-Sidhanth S
+Siddhant S
 GitHub: https://github.com/sid10079
 
 ---
